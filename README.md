@@ -51,7 +51,7 @@
 final Cedrick = {
   "status"      : "unemployed (temporary, i hope)",
   "mood"        : "振られた感じ",  // feels like i got rejected
-  "fuel"        : "instant noodles & energy drinks", //sting superiority
+  "fuel"        : "instant noodles & energy drinks",
   "debug_style" : "print() everything until it works",
   "open_to"     : ["job offers", "freelance", "collab", "free food"],
   "not_open_to" : ["unpaid internships", "\"exposure\" as payment"],
