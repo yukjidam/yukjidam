@@ -5,7 +5,7 @@
 
 *Fresh grad. Code enjoyer. Probably debugging something right now.*
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F97316&center=true&vCenter=true&width=435&lines=BS+Information+Technology+Graduate;Flutter+%26+Firebase+Developer;AI+Tools+Power+User;Currently+not+unemployed+%F0%9F%A4%9E)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F97316&center=true&vCenter=true&width=435&lines=BS+Information+Technology+Graduate;Flutter+%26+Firebase+Developer;AI+Tools+Power+User;Currently+unemployed+%F0%9F%98%AD+hire+me)](https://git.io/typing-svg)
 
 </div>
 
@@ -18,7 +18,7 @@
 - 🤖 Firm believer that AI tools are just **really fast Stack Overflow**
 - 🌏 Based in the Philippines, shipping code at weird hours
 - 🎌 Anime fan who somehow turned that into a [whole app](https://github.com/ssoyngxo)
-- 💡 Currently looking for opportunities to touch grass **and write good code**
+- 💀 Currently **unemployed** — yes this is a cry for help, yes my mom keeps asking
 
 ---
 
@@ -45,17 +45,18 @@
 
 ---
 
-## 📊 github stats
+## 🎲 fun facts
 
-<div align="center">
-
-![yukjidam's GitHub stats](https://github-readme-stats.vercel.app/api?username=ssoyngxo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ssoyngxo&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=ssoyngxo&theme=tokyonight&hide_border=true)
-
-</div>
+```dart
+final Cedrick = {
+  "status"      : "unemployed (temporary, i hope)",
+  "mood"        : "振られた感じ",  // feels like i got rejected
+  "fuel"        : "instant noodles & energy drinks",
+  "debug_style" : "print() everything until it works",
+  "open_to"     : ["job offers", "freelance", "collab", "free food"],
+  "not_open_to" : ["unpaid internships", "\"exposure\" as payment"],
+};
+```
 
 ---
 
