@@ -1,16 +1,88 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**yukjidam/yukjidam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# hey, i'm Cedrick 👋
+### aka `yukjidam` on the internet
 
-Here are some ideas to get you started:
+*Fresh grad. Code enjoyer. Probably debugging something right now.*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F97316&center=true&vCenter=true&width=435&lines=BS+Information+Technology+Graduate;Flutter+%26+Firebase+Developer;AI+Tools+Power+User;Currently+not+unemployed+%F0%9F%A4%9E)](https://git.io/typing-svg)
+
+</div>
+
+---
+
+## 🧍 who even is this guy
+
+- 🎓 Fresh graduate — **BS Information Technology**
+- 📱 Building mobile apps with **Flutter & Firebase**
+- 🤖 Firm believer that AI tools are just **really fast Stack Overflow**
+- 🌏 Based in the Philippines, shipping code at weird hours
+- 🎌 Anime fan who somehow turned that into a [whole app](https://github.com/ssoyngxo)
+- 💡 Currently looking for opportunities to touch grass **and write good code**
+
+---
+
+## 🛠️ tech stack
+
+### languages
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+
+### frameworks & tools
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+### ai tools i use unironically
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
+![DeepSeek](https://img.shields.io/badge/DeepSeek-4D6BFE?style=for-the-badge&logo=deepseek&logoColor=white)
+![Blackbox](https://img.shields.io/badge/Blackbox-000000?style=for-the-badge&logo=blackbox&logoColor=white)
+
+---
+
+## 📊 github stats
+
+<div align="center">
+
+![yukjidam's GitHub stats](https://github-readme-stats.vercel.app/api?username=ssoyngxo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ssoyngxo&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=ssoyngxo&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 🌐 find me on the internet
+
+<div align="center">
+
+[![X](https://img.shields.io/badge/@jjangjorimzz-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/jjangjorimzz)
+[![Instagram](https://img.shields.io/badge/575.jpeg-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/575.jpeg)
+[![Facebook](https://img.shields.io/badge/Cedrick_Casinillo_Abuluyan-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/Cedrick-Casinillo-Abuluyan)
+[![GitHub](https://img.shields.io/badge/ssoyngxo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ssoyngxo)
+
+</div>
+
+---
+
+## 🎌 currently building
+
+> **Animu** — an anime library tracker with reviews, threads, and a notification system.
+> Because MyAnimeList exists but where's the community drama?
+
+---
+
+<div align="center">
+
+*thanks for visiting. now go touch grass, we both need it.* 🌿
+
+![Profile Views](https://komarev.com/ghpvc/?username=ssoyngxo&color=orange&style=flat-square)
+
+</div>
