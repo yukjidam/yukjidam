@@ -66,7 +66,7 @@ final Cedrick = {
 
 [![X](https://img.shields.io/badge/@jjangjorimzz-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/jjangjorimzz)
 [![Instagram](https://img.shields.io/badge/575.jpeg-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/575.jpeg)
-[![Facebook](https://img.shields.io/badge/Cedrick_Casinillo_Abuluyan-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/Cedrick-Casinillo-Abuluyan)
+[![Facebook](https://img.shields.io/badge/Cedrick_Casinillo_Abuluyan-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/cedrick.abu)
 [![GitHub](https://img.shields.io/badge/yukjidam-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yukjidam)
 
 </div>
