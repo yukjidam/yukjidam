@@ -75,7 +75,7 @@ final Cedrick = {
 
 ## 🎌 currently building
 
-> **Animu** — an anime library tracker with reviews, threads, and a notification system.
+> **[Animu](https://github.com/yukjidam/Animu)** — an anime library tracker with reviews, threads, and a notification system.
 > Because MyAnimeList exists but where's the community drama?
 
 ---
