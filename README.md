@@ -1,14 +1,40 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/yukjidam/yukjidam/main/banner.gif" width="100%" style="max-width:800px;" />
+```
+██╗   ██╗██╗   ██╗██╗  ██╗     ██╗██╗██████╗  █████╗ ███╗   ███╗
+╚██╗ ██╔╝██║   ██║██║ ██╔╝     ██║██║██╔══██╗██╔══██╗████╗ ████║
+ ╚████╔╝ ██║   ██║█████╔╝      ██║██║██║  ██║███████║██╔████╔██║
+  ╚██╔╝  ██║   ██║██╔═██╗ ██   ██║██║██║  ██║██╔══██║██║╚██╔╝██║
+   ██║   ╚██████╔╝██║  ██╗╚█████╔╝██║██████╔╝██║  ██║██║ ╚═╝ ██║
+   ╚═╝    ╚═════╝ ╚═╝  ╚═╝ ╚════╝ ╚═╝╚═════╝ ╚═╝  ╚═╝╚═╝     ╚═╝
+```
 
-# hey. i'm cedrick.
-### `yukjidam` online. `cedrick` irl. `error 404: purpose not found` existentially.
+<img src="https://raw.githubusercontent.com/yukjidam/yukjidam/main/banner.gif" width="100%" />
+
+### `yukjidam` online · `cedrick` irl · `error 404: purpose not found` existentially
 
 *fresh grad. occasional coder. full-time overthinker.*
 *currently sitting in the dark listening to lofi and pretending i'm the main character.*
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F97316&center=true&vCenter=true&width=500&lines=BS+Information+Technology+Graduate;Flutter+%26+Firebase+Developer;AI+Tools+Power+User;unemployed+and+thriving+(lying);no+seriously+someone+hire+me;i+will+cry+if+you+don't)](https://git.io/typing-svg)
+
+<!-- BADGES: rejected by counter -->
+![applications sent](https://img.shields.io/badge/job_applications_sent-47-orange?style=flat-square)
+![responses received](https://img.shields.io/badge/responses_received-2-yellow?style=flat-square)
+![left on read](https://img.shields.io/badge/ghosted_by_recruiters-45-red?style=flat-square)
+![coping](https://img.shields.io/badge/coping_mechanism-making_github_prettier-blueviolet?style=flat-square)
+
+</div>
+
+---
+
+## 🎵 what i'm listening to right now
+
+<div align="center">
+
+[![spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=1c0u01nz7mlwcgvq5iy5fi68j&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&profanity=false&hide_remaster=false)](https://github.com/kittinan/spotify-github-profile)&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=true&bar_color=F97316&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=1c0u01nz7mlwcgvq5iy5fi68j&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&profanity=false&hide_remaster=false)](https://github.com/kittinan/spotify-github-profile)&redirect=true)
+
+*probably lofi. possibly something that makes me feel things at 2am. definitely not studying.*
 
 </div>
 
@@ -52,17 +78,20 @@
 
 ```dart
 final Cedrick = {
-  "status"         : "unemployed. day ${DateTime.now().difference(DateTime(2025,1,1)).inDays}. sending it.",
-  "mood"           : "振られた感じ",   // that specific feeling of being ghosted by a job posting
+  "status"          : "unemployed. day ${DateTime.now().difference(DateTime(2025,1,1)).inDays}. sending it.",
+  "mood"            : "振られた感じ",   // ghosted by a job posting again
   "current_activity": "manifesting a salary while eating skyflakes",
-  "sleep"          : "non-existent. the thoughts don't stop at night. the bugs don't either.",
-  "fuel"           : ["instant noodles", "energy drinks", "spite", "the memory of a recruiter ghosting me"],
-  "debug_style"    : "print() until the error gets embarrassed and fixes itself",
-  "coping_method"  : "making my portfolio prettier instead of applying to more jobs",
-  "open_to"        : ["job offers", "freelance", "collab", "free food", "someone telling me it gets better"],
-  "not_open_to"    : ["unpaid internships", "'exposure' as payment", "my tita asking if i have a job yet"],
-  "inner_monologue": "i should apply to more jobs. anyway here's a new css animation i made at 3am",
-  "5yr_plan"       : "step 1: get employed. step 2: cry in a different location. step 3: figure out step 3.",
+  "sleep"           : "non-existent. the thoughts don't stop at night. the bugs don't either.",
+  "fuel"            : ["instant noodles", "kopiko", "energy drinks", "spite", "delusion"],
+  "debug_style"     : "print() until the error gets embarrassed and fixes itself",
+  "coping_method"   : "making my portfolio prettier instead of applying to more jobs",
+  "open_to"         : ["job offers", "freelance", "collab", "free food", "someone telling me it gets better"],
+  "not_open_to"     : ["unpaid internships", "'exposure' as payment", "my tita asking if i have a job yet"],
+  "inner_monologue" : "i should apply to more jobs. anyway here's a new css animation i made at 3am",
+  "5yr_plan"        : "step 1: get employed. step 2: cry in a different location. step 3: figure out step 3.",
+  // comments in tagalog kasi bakit hindi
+  // "mood"         : "pagod na pagod pero di pa rin tulog",
+  // "location"     : "somewhere in pinas, brownout probable, wifi unstable, deadlines ignored",
 };
 ```
 
@@ -75,7 +104,35 @@ final Cedrick = {
 - watch anime and call it "research for my app"
 - open my email, see nothing, close my email, repeat
 - contemplate the nature of imposter syndrome while being the imposter
-- add lofi music to my portfolio website because at least it can have a vibe even if i can't
+- add lofi music to my portfolio website because at least it *can* have a vibe even if i can't
+
+---
+
+## 🐍 my contribution graph but make it chaotic
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yukjidam/yukjidam/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yukjidam/yukjidam/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/yukjidam/yukjidam/output/github-contribution-grid-snake.svg" />
+</picture>
+
+*a snake eating my contributions. relatable. something is always consuming my progress.*
+
+</div>
+
+---
+
+## 💬 quote that lives in my head rent free
+
+<div align="center">
+
+[![readme quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The+people+who+are+crazy+enough+to+think+they+can+change+the+world+are+the+ones+who+do&author=Steve+Jobs)](https://github.com/piyushsuthar/github-readme-quotes)
+
+*refreshing the page gives you a new one. just like refreshing jobstreet gives you false hope.*
+
+</div>
 
 ---
 
@@ -107,7 +164,7 @@ i have too much free time, a dangerous amount of caffeine tolerance, and absolut
 
 i will show up early. i will learn whatever you need me to learn. i will debug things at midnight not because you asked but because the bug personally offended me and i can't let it win.
 
-my portfolio has lofi music and polaroids and little sound effects. i built that while unemployed. imagine what i'd build with a salary and health insurance and a reason to get dressed before noon.
+my portfolio has lofi music, polaroids, and little sound effects. i built that while unemployed. imagine what i'd build with a salary and health insurance and a reason to get dressed before noon.
 
 *hire me or i will keep making my github prettier and that's not a threat that's a cry for help*
 
@@ -117,7 +174,7 @@ my portfolio has lofi music and polaroids and little sound effects. i built that
 
 *you've reached the end. there's nothing here. just like my job prospects.*
 
-*thanks for visiting. go touch grass. i'll be here.*  🌿
+*thanks for visiting. go touch grass. i'll be here.* 🌿
 
 ---
 
@@ -126,13 +183,13 @@ my portfolio has lofi music and polaroids and little sound effects. i built that
 *she deserved the world and the world wasn't ready for her.*
 *rest easy, jinri. 최진리 (1994–2019)*
 
-<img src="https://github.com/yukjidam/yukjidam/blob/main/Chica%20Japonesa%20En%20El%20Mar%20GIF%20-%20Chica%20japonesa%20en%20el%20mar%20-%20Descubre%20y%20comparte%20GIF.gif?raw=true" width="100%" style="max-width:800px;" />
+<img src="https://raw.githubusercontent.com/yukjidam/yukjidam/main/sulli.gif" width="100%" />
 
 *"i just want to live without hurting anyone."*
 *— choi jinri*
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=ssoyngxo&color=orange&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=yukjidam&color=orange&style=flat-square)
 
 </div>
