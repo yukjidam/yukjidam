@@ -32,7 +32,7 @@
 
 <div align="center">
 
-[![spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=1c0u01nz7mlwcgvq5iy5fi68j&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&profanity=false&hide_remaster=false)](https://github.com/kittinan/spotify-github-profile)&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=true&bar_color=F97316&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=1c0u01nz7mlwcgvq5iy5fi68j&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&profanity=false&hide_remaster=false)](https://github.com/kittinan/spotify-github-profile)&redirect=true)
+[![spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=1c0u01nz7mlwcgvq5iy5fi68j&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=true&bar_color=F97316&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=1c0u01nz7mlwcgvq5iy5fi68j&redirect=true)
 
 *probably lofi. possibly something that makes me feel things at 2am. definitely not studying.*
 
@@ -89,9 +89,6 @@ final Cedrick = {
   "not_open_to"     : ["unpaid internships", "'exposure' as payment", "my tita asking if i have a job yet"],
   "inner_monologue" : "i should apply to more jobs. anyway here's a new css animation i made at 3am",
   "5yr_plan"        : "step 1: get employed. step 2: cry in a different location. step 3: figure out step 3.",
-  // comments in tagalog kasi bakit hindi
-  // "mood"         : "pagod na pagod pero di pa rin tulog",
-  // "location"     : "somewhere in pinas, brownout probable, wifi unstable, deadlines ignored",
 };
 ```
 
