@@ -9,7 +9,6 @@
    ╚═╝    ╚═════╝ ╚═╝  ╚═╝ ╚════╝ ╚═╝╚═════╝ ╚═╝  ╚═╝╚═╝     ╚═╝
 ```
 
-<img src="https://raw.githubusercontent.com/yukjidam/yukjidam/main/banner.gif" width="100%" />
 
 ### `yukjidam` online · `cedrick` irl · `error 404: purpose not found` existentially
 
