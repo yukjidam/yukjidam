@@ -1,0 +1,20 @@
+name: Update Spotify Now Playing
+
+on:
+  schedule:
+    - cron: "*/5 * * * *"   # every 5 minutes
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Update now playing
+        uses: actions/github-script@v7
+        with:
+          script: |
+            // spotify-github-profile handles this via their own server
+            // nothing to run here — the badge URL does it live
+            console.log("Spotify badge is live via spotify-github-profile.vercel.app")
