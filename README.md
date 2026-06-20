@@ -1,6 +1,6 @@
 <div align="center">
 
-![banner](https://github.com/yukjidam/yukjidam/blob/main/Chica%20Japonesa%20En%20El%20Mar%20GIF%20-%20Chica%20japonesa%20en%20el%20mar%20-%20Descubre%20y%20comparte%20GIF.gif?raw=true)
+<img src="https://raw.githubusercontent.com/yukjidam/yukjidam/main/banner.gif" width="100%" style="max-width:800px;" />
 
 # hey. i'm cedrick.
 ### `yukjidam` online. `cedrick` irl. `error 404: purpose not found` existentially.
@@ -118,6 +118,20 @@ my portfolio has lofi music and polaroids and little sound effects. i built that
 *you've reached the end. there's nothing here. just like my job prospects.*
 
 *thanks for visiting. go touch grass. i'll be here.*  🌿
+
+---
+
+🕊️ **here's a pretty gif of my late sulli to make your day a little brighter**
+
+*she deserved the world and the world wasn't ready for her.*
+*rest easy, jinri. 최진리 (1994–2019)*
+
+<img src="https://github.com/yukjidam/yukjidam/blob/main/Chica%20Japonesa%20En%20El%20Mar%20GIF%20-%20Chica%20japonesa%20en%20el%20mar%20-%20Descubre%20y%20comparte%20GIF.gif?raw=true" width="100%" style="max-width:800px;" />
+
+*"i just want to live without hurting anyone."*
+*— choi jinri*
+
+---
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ssoyngxo&color=orange&style=flat-square)
 
