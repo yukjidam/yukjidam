@@ -121,18 +121,6 @@ final Cedrick = {
 
 ---
 
-## 💬 quote that lives in my head rent free
-
-<div align="center">
-
-[![readme quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The+people+who+are+crazy+enough+to+think+they+can+change+the+world+are+the+ones+who+do&author=Steve+Jobs)](https://github.com/piyushsuthar/github-readme-quotes)
-
-*refreshing the page gives you a new one. just like refreshing jobstreet gives you false hope.*
-
-</div>
-
----
-
 ## 🌐 find me (please. i'm lonely)
 
 <div align="center">
@@ -180,10 +168,7 @@ my portfolio has lofi music, polaroids, and little sound effects. i built that w
 *she deserved the world and the world wasn't ready for her.*
 *rest easy, jinri. 최진리 (1994–2019)*
 
-<img src="https://raw.githubusercontent.com/yukjidam/yukjidam/main/sulli.gif" width="100%" />
-
-*"i just want to live without hurting anyone."*
-*— choi jinri*
+<img src="https://github.com/yukjidam/yukjidam/blob/main/Chica%20Japonesa%20En%20El%20Mar%20GIF%20-%20Chica%20japonesa%20en%20el%20mar%20-%20Descubre%20y%20comparte%20GIF.gif?raw=true" width="100%" />
 
 ---
 
