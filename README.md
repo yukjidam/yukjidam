@@ -1,30 +1,33 @@
 <div align="center">
 
-# hey, i'm Cedrick 👋
-### aka `yukjidam` on the internet
+![banner](https://github.com/yukjidam/yukjidam/blob/main/Chica%20Japonesa%20En%20El%20Mar%20GIF%20-%20Chica%20japonesa%20en%20el%20mar%20-%20Descubre%20y%20comparte%20GIF.gif?raw=true)
 
-*Fresh grad. Code enjoyer. Probably debugging something right now.*
+# hey. i'm cedrick.
+### `yukjidam` online. `cedrick` irl. `error 404: purpose not found` existentially.
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F97316&center=true&vCenter=true&width=435&lines=BS+Information+Technology+Graduate;Flutter+%26+Firebase+Developer;AI+Tools+Power+User;Currently+unemployed+%F0%9F%98%AD+hire+me)](https://git.io/typing-svg)
+*fresh grad. occasional coder. full-time overthinker.*
+*currently sitting in the dark listening to lofi and pretending i'm the main character.*
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F97316&center=true&vCenter=true&width=500&lines=BS+Information+Technology+Graduate;Flutter+%26+Firebase+Developer;AI+Tools+Power+User;unemployed+and+thriving+(lying);no+seriously+someone+hire+me;i+will+cry+if+you+don't)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## 🧍 who even is this guy
+## 🕳️ who is this guy and why is he on my screen
 
-- 🎓 Fresh graduate — **BS Information Technology**
-- 📱 Building mobile apps with **Flutter & Firebase**
-- 🤖 Firm believer that AI tools are just **really fast Stack Overflow**
-- 🌏 Based in the Philippines, shipping code at weird hours
-- 🎌 Anime fan who somehow turned that into a [whole app](https://github.com/yukjidam/Animu)
-- 💀 Currently **unemployed** — yes this is a cry for help, yes my mom keeps asking
+- 🎓 fresh grad — **BS Information Technology** — survived 4 years just to stare at a blank jobstreet page
+- 📱 i build mobile apps with **Flutter & Firebase** and an unhealthy amount of stack overflow cope
+- 🤖 AI tools are just **really fast Stack Overflow that also gaslight you and sometimes ruin your confidence** — i use all of them
+- 🌏 based in the Philippines. coding at 2am. not because i'm productive. because the silence at 2am doesn't judge me
+- 🎌 made an [entire anime app](https://github.com/yukjidam/Animu) because i needed a hobby that was slightly more impressive than "i watch a lot of anime"
+- 💀 **unemployed** — not by choice. yes my mom knows. no she won't stop bringing it up at family dinners. i have accepted this as my villain origin
 
 ---
 
-## 🛠️ tech stack
+## 🛠️ things i know how to do (allegedly)
 
-### languages
+### languages i speak (to computers, humans are harder)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -36,7 +39,7 @@
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-### ai tools i use unironically
+### ai overlords i've pledged loyalty to
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
@@ -45,22 +48,38 @@
 
 ---
 
-## 🎲 fun facts
+## 🪦 current life status
 
 ```dart
 final Cedrick = {
-  "status"      : "unemployed (temporary, i hope)",
-  "mood"        : "振られた感じ",  // feels like i got rejected
-  "fuel"        : "instant noodles & energy drinks",
-  "debug_style" : "print() everything until it works",
-  "open_to"     : ["job offers", "freelance", "collab", "free food"],
-  "not_open_to" : ["unpaid internships", "\"exposure\" as payment"],
+  "status"         : "unemployed. day ${DateTime.now().difference(DateTime(2025,1,1)).inDays}. sending it.",
+  "mood"           : "振られた感じ",   // that specific feeling of being ghosted by a job posting
+  "current_activity": "manifesting a salary while eating skyflakes",
+  "sleep"          : "non-existent. the thoughts don't stop at night. the bugs don't either.",
+  "fuel"           : ["instant noodles", "energy drinks", "spite", "the memory of a recruiter ghosting me"],
+  "debug_style"    : "print() until the error gets embarrassed and fixes itself",
+  "coping_method"  : "making my portfolio prettier instead of applying to more jobs",
+  "open_to"        : ["job offers", "freelance", "collab", "free food", "someone telling me it gets better"],
+  "not_open_to"    : ["unpaid internships", "'exposure' as payment", "my tita asking if i have a job yet"],
+  "inner_monologue": "i should apply to more jobs. anyway here's a new css animation i made at 3am",
+  "5yr_plan"       : "step 1: get employed. step 2: cry in a different location. step 3: figure out step 3.",
 };
 ```
 
 ---
 
-## 🌐 find me on the internet
+## 🌑 things i do at 3am instead of sleeping
+
+- rebuild my portfolio for the 6th time because the buttons weren't *quite* right
+- write dart code and convince myself i'm being productive
+- watch anime and call it "research for my app"
+- open my email, see nothing, close my email, repeat
+- contemplate the nature of imposter syndrome while being the imposter
+- add lofi music to my portfolio website because at least it can have a vibe even if i can't
+
+---
+
+## 🌐 find me (please. i'm lonely)
 
 <div align="center">
 
@@ -75,14 +94,30 @@ final Cedrick = {
 
 ## 🎌 currently building
 
-> **[Animu](https://github.com/yukjidam/Animu)** — an anime library tracker with reviews, threads, and a notification system.
-> Because MyAnimeList exists but where's the community drama?
+> **[Animu](https://github.com/yukjidam/Animu)** — an anime tracker with reviews, threads, and a notification system.
+>
+> MAL exists but it was designed by someone who hates joy and has never heard of dark mode.
+> i'm fixing that. slowly. between job applications and existential spirals.
+
+---
+
+## 📬 want to hire me
+
+i have too much free time, a dangerous amount of caffeine tolerance, and absolutely nothing to lose.
+
+i will show up early. i will learn whatever you need me to learn. i will debug things at midnight not because you asked but because the bug personally offended me and i can't let it win.
+
+my portfolio has lofi music and polaroids and little sound effects. i built that while unemployed. imagine what i'd build with a salary and health insurance and a reason to get dressed before noon.
+
+*hire me or i will keep making my github prettier and that's not a threat that's a cry for help*
 
 ---
 
 <div align="center">
 
-*thanks for visiting. now go touch grass, we both need it.* 🌿
+*you've reached the end. there's nothing here. just like my job prospects.*
+
+*thanks for visiting. go touch grass. i'll be here.*  🌿
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ssoyngxo&color=orange&style=flat-square)
 
