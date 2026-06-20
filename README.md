@@ -28,18 +28,6 @@
 
 ---
 
-## 🎵 what i'm listening to right now
-
-<div align="center">
-
-[![spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=1c0u01nz7mlwcgvq5iy5fi68j&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=true&bar_color=F97316&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=1c0u01nz7mlwcgvq5iy5fi68j&redirect=true)
-
-*probably lofi. possibly something that makes me feel things at 2am. definitely not studying.*
-
-</div>
-
----
-
 ## 🕳️ who is this guy and why is he on my screen
 
 - 🎓 fresh grad — **BS Information Technology** — survived 4 years just to stare at a blank jobstreet page
@@ -105,22 +93,6 @@ final Cedrick = {
 
 ---
 
-## 🐍 my contribution graph but make it chaotic
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yukjidam/yukjidam/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yukjidam/yukjidam/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/yukjidam/yukjidam/output/github-contribution-grid-snake.svg" />
-</picture>
-
-*a snake eating my contributions. relatable. something is always consuming my progress.*
-
-</div>
-
----
-
 ## 🌐 find me (please. i'm lonely)
 
 <div align="center">
@@ -152,6 +124,18 @@ i will show up early. i will learn whatever you need me to learn. i will debug t
 my portfolio has lofi music, polaroids, and little sound effects. i built that while unemployed. imagine what i'd build with a salary and health insurance and a reason to get dressed before noon.
 
 *hire me or i will keep making my github prettier and that's not a threat that's a cry for help*
+
+---
+
+## 🎵 what i'm listening to right now
+
+<div align="center">
+
+[![spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=1c0u01nz7mlwcgvq5iy5fi68j&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=true&bar_color=F97316&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=1c0u01nz7mlwcgvq5iy5fi68j&redirect=true)
+
+*probably lofi. possibly something that makes me feel things at 2am. definitely not studying.*
+
+</div>
 
 ---
 
