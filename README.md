@@ -112,6 +112,10 @@ final Cedrick = {
 > MAL exists but it was designed by someone who hates joy and has never heard of dark mode.
 > i'm fixing that. slowly. between job applications and existential spirals.
 
+> **[ceddy's cozy corner](https://github.com/yukjidam/cozy-corner)** — my portfolio site, except i decided a normal portfolio was too boring so i made it a tiny desktop instead. draggable windows, a virtual pet you hatch and take care of, a fishing minigame, lofi bgm playing in the background, the works.
+>
+> still very much a work in progress. some sections are placeholder, some bugs are still feral and unfixed. but it has a guestbook now, so if you visit, leave a note. i'm lonely as established above.
+
 ---
 
 ## 📬 want to hire me
