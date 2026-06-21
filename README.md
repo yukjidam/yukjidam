@@ -17,14 +17,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F97316&center=true&vCenter=true&width=500&lines=BS+Information+Technology+Graduate;Flutter+%26+Firebase+Developer;AI+Tools+Power+User;unemployed+and+thriving+(lying);no+seriously+someone+hire+me;i+will+cry+if+you+don't)](https://git.io/typing-svg)
 
-<!-- BADGES: rejected by counter -->
-![applications sent](https://img.shields.io/badge/job_applications_sent-47-orange?style=flat-square)
-![responses received](https://img.shields.io/badge/responses_received-2-yellow?style=flat-square)
-![left on read](https://img.shields.io/badge/ghosted_by_recruiters-45-red?style=flat-square)
-![coping](https://img.shields.io/badge/coping_mechanism-making_github_prettier-blueviolet?style=flat-square)
-
-</div>
-
 ---
 
 ## 🕳️ who is this guy and why is he on my screen
