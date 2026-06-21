@@ -151,7 +151,7 @@ my portfolio has lofi music, polaroids, and little sound effects. i built that w
 *she deserved the world and the world wasn't ready for her.*
 *rest easy, jinri. 최진리 (1994–2019)*
 
-<img src="https://github.com/yukjidam/yukjidam/blob/main/Chica%20Japonesa%20En%20El%20Mar%20GIF%20-%20Chica%20japonesa%20en%20el%20mar%20-%20Descubre%20y%20comparte%20GIF.gif?raw=true" width="100%" />
+<img src="https://github.com/yukjidam/yukjidam/blob/main/sulli.gif?raw=true" width="100%" />
 
 ---
 
