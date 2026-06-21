@@ -142,13 +142,6 @@ my portfolio has lofi music, polaroids, and little sound effects. i built that w
 
 ---
 
-<div align="center">
-
-*you've reached the end. there's nothing here. just like my job prospects.*
-
-*thanks for visiting. go touch grass. i'll be here.* 🌿
-
----
 
 🕊️ **here's a pretty gif of my late sulli to make your day a little brighter**
 
@@ -156,6 +149,14 @@ my portfolio has lofi music, polaroids, and little sound effects. i built that w
 *rest easy, jinri. 최진리 (1994–2019)*
 
 <img src="https://github.com/yukjidam/yukjidam/blob/main/sulli.gif?raw=true" width="100%" />
+
+---
+
+<div align="center">
+
+*you've reached the end. there's nothing here. just like my job prospects.*
+
+*thanks for visiting. go touch grass. i'll be here.* 🌿
 
 ---
 
