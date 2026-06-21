@@ -142,6 +142,7 @@ my portfolio has lofi music, polaroids, and little sound effects. i built that w
 
 ---
 
+<div align="center">
 
 🕊️ **here's a pretty gif of my late sulli to make your day a little brighter**
 
