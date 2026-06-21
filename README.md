@@ -16,7 +16,6 @@
 *currently sitting in the dark listening to lofi and pretending i'm the main character.*
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F97316&center=true&vCenter=true&width=500&lines=BS+Information+Technology+Graduate;Flutter+%26+Firebase+Developer;AI+Tools+Power+User;unemployed+and+thriving+(lying);no+seriously+someone+hire+me;i+will+cry+if+you+don't)](https://git.io/typing-svg)
-
 ---
 
 ## 🕳️ who is this guy and why is he on my screen
