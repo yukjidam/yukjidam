@@ -112,9 +112,9 @@ final Cedrick = {
 > MAL exists but it was designed by someone who hates joy and has never heard of dark mode.
 > i'm fixing that. slowly. between job applications and existential spirals.
 
-> **[cozy-corner](https://github.com/yukjidam/cozy-corner)** — my portfolio site, except i decided a normal portfolio was too boring so i made it a tiny desktop instead. draggable windows, a virtual pet you hatch and take care of, a fishing minigame, lofi bgm playing in the background, the works.
+> **[PlantoDex](https://github.com/yukjidam/PlantoDex)** — pokémon go but the pokémon are plants and i'm the loser catching them.
 >
-> still very much a work in progress. some sections are placeholder, some bugs are still feral and unfixed. but it has a guestbook now, so if you visit, leave a note. i'm lonely as established above.
+> currently fighting the apis. they are winning.
 
 ---
 
@@ -144,12 +144,12 @@ my portfolio has lofi music, polaroids, and little sound effects. i built that w
 
 <div align="center">
 
-🕊️ **here's a pretty gif of my late sulli to make your day a little brighter**
+**found a new way to cope: koreans who are doing better than me.**
 
-*she deserved the world and the world wasn't ready for her.*
-*rest easy, jinri. 최진리 (1994–2019)*
+<img src="https://github.com/yukjidam/yukjidam/blob/main/aespa.gif?raw=true" width="100%" />
 
-<img src="https://github.com/yukjidam/yukjidam/blob/main/sulli.gif?raw=true" width="100%" />
+> "Be my æ!"
+> — aespa's actual catchphrase, and also what i say to recruiters in my head
 
 ---
 
