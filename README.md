@@ -146,10 +146,7 @@ my portfolio has lofi music, polaroids, and little sound effects. i built that w
 
 **found a new way to cope: koreans who are doing better than me.**
 
-<img src="https://github.com/yukjidam/yukjidam/blob/main/aespa.gif?raw=true" width="100%" />
-
-> "Be my æ!"
-> — aespa's actual catchphrase, and also what i say to recruiters in my head
+<img src="https://github.com/yukjidam/yukjidam/blob/main/smn.gif?raw=true" width="100%" />
 
 ---
 
