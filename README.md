@@ -146,7 +146,12 @@ my portfolio has lofi music, polaroids, and little sound effects. i built that w
 
 **found a new way to cope: koreans who are doing better than me.**
 
-<img src="https://github.com/yukjidam/yukjidam/blob/main/smn.gif?raw=true" width="100%" />
+<table>
+<tr>
+<td><img src="https://github.com/yukjidam/yukjidam/blob/main/smn.gif?raw=true" height="280" /></td>
+<td><img src="https://github.com/yukjidam/yukjidam/blob/main/hiichan.jpg?raw=true" height="280" /></td>
+</tr>
+</table>
 
 ---
 
