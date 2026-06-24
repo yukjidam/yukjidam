@@ -82,17 +82,20 @@
 
 </div>
 
-```dart
-final commitLog = {
-  "what_recruiters_see"  : "47 applications. 2 replies. concerning silence.",
-  "what_github_sees"     : "commits at 1am, 2am, 3am, and one mysterious one at 11:58pm i don't remember making",
-  "commit_messages"      : ["fix bug", "fix bug again", "actually fix bug", "why did this work", "revert: it did not work"],
-  "green_squares"        : "the only validation i'm getting this month",
-  "longest_streak_cause" : "spite, mostly. some genuine curiosity. mostly spite.",
-};
+```bash
+$ git log --author="me" --since="3am" --oneline
+a4f29c1 fix bug
+e91b03d fix bug again
+7c2a8f0 actually fix bug
+b5e441a why did this work
+0f9d2c3 revert: it did not work
+9a1e7b2 i don't remember writing this commit but it's 2am so. sure.
+
+$ git blame my_life.dart
+> 100% authored by: spite, caffeine, and the fear of becoming a cautionary tale
 ```
 
-> 💡 stats cards refresh on their own — every green square above is real, not vibes. unlike my resume, which is 30% vibes.
+> 💡 the green squares are real, not vibes. unlike my resume, which is 30% vibes.
 
 ---
 
