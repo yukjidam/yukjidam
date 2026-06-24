@@ -61,6 +61,41 @@
 
 ---
 
+## 📊 receipts (proof i actually do something between job applications)
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=yukjidam&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=F97316&icon_color=F97316&text_color=c9d1d9&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yukjidam&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=F97316&text_color=c9d1d9&langs_count=8" />
+
+<img src="https://streak-stats.demolab.com/?user=yukjidam&theme=tokyonight&hide_border=true&background=0d1117&ring=F97316&fire=F97316&currStreakLabel=F97316" />
+
+*streak status: more consistent than my job hunt. lower bar, i know.*
+
+</div>
+
+### 🧟 commit activity (proof of life)
+
+<div align="center">
+
+[![yukjidam's commit graph](https://github-readme-activity-graph.vercel.app/graph?username=yukjidam&theme=react-dark&bg_color=0d1117&color=F97316&line=F97316&point=ffffff&hide_border=true&area=true)](https://github.com/yukjidam)
+
+</div>
+
+```dart
+final commitLog = {
+  "what_recruiters_see"  : "47 applications. 2 replies. concerning silence.",
+  "what_github_sees"     : "commits at 1am, 2am, 3am, and one mysterious one at 11:58pm i don't remember making",
+  "commit_messages"      : ["fix bug", "fix bug again", "actually fix bug", "why did this work", "revert: it did not work"],
+  "green_squares"        : "the only validation i'm getting this month",
+  "longest_streak_cause" : "spite, mostly. some genuine curiosity. mostly spite.",
+};
+```
+
+> 💡 stats cards refresh on their own — every green square above is real, not vibes. unlike my resume, which is 30% vibes.
+
+---
+
 ## 🪦 current life status
 
 ```dart
