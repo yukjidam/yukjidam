@@ -61,41 +61,76 @@
 
 ---
 
-## 📊 receipts (proof i actually do something between job applications)
+## 🧾 receipt
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=yukjidam&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=F97316&icon_color=F97316&text_color=c9d1d9&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yukjidam&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=F97316&text_color=c9d1d9&langs_count=8" />
-
-<img src="https://streak-stats.demolab.com/?user=yukjidam&theme=tokyonight&hide_border=true&background=0d1117&ring=F97316&fire=F97316&currStreakLabel=F97316" />
-
-*streak status: more consistent than my job hunt. lower bar, i know.*
-
-</div>
-
-### 🧟 commit activity (proof of life)
-
-<div align="center">
-
-[![yukjidam's commit graph](https://github-readme-activity-graph.vercel.app/graph?username=yukjidam&theme=react-dark&bg_color=0d1117&color=F97316&line=F97316&point=ffffff&hide_border=true&area=true)](https://github.com/yukjidam)
-
-</div>
-
-```bash
-$ git log --author="me" --since="3am" --oneline
-a4f29c1 fix bug
-e91b03d fix bug again
-7c2a8f0 actually fix bug
-b5e441a why did this work
-0f9d2c3 revert: it did not work
-9a1e7b2 i don't remember writing this commit but it's 2am so. sure.
-
-$ git blame my_life.dart
-> 100% authored by: spite, caffeine, and the fear of becoming a cautionary tale
+```
+=================================================
+      C E D R I C K ' S   C A R E E R
+      O F F I C I A L   R E C E I P T
+=================================================
+STORE: unemployment.exe
+CASHIER: spite
+DATE: today, and the day before, and before that
+--------------------------------------------
+1x   BS Information Technology .... PAID IN FULL (emotionally)
+47x  Job Applications Sent ........ $0.00  RETURNED
+2x   Actual Responses ............. STILL PROCESSING
+45x  Ghosted By Recruiters ........ NO REFUNDS
+1x   Flutter Anime App ("Animu") .. SELF-FUNDED
+1x   Plant-Catching App ........... FIGHTING THE API
+∞x   Instant Noodles .............. RECURRING CHARGE
+∞x   Kopiko Sachets ............... RECURRING CHARGE
+1x   Existential Dread ........... COMPLIMENTARY
+--------------------------------------------
+SUBTOTAL: .......................... exhaustion
+TAX (family dinner questions): ..... immeasurable
+--------------------------------------------
+TOTAL DUE: .......................... employment
+--------------------------------------------
+   ITEMS NON-REFUNDABLE. NO EXCHANGES.
+   THANK YOU FOR SHOPPING AT unemployment.exe
+   ⭐ leave a review: "hire this man" ⭐
+============================================
 ```
 
-> 💡 the green squares are real, not vibes. unlike my resume, which is 30% vibes.
+</div>
+
+---
+
+## 📝 changelog
+
+<div align="center">
+
+*(life, versioned like a buggy side project)*
+
+</div>
+
+```
+v2.5.0 — "still unemployed" (current)
+  + added: existential dread module (auto-runs at 2am)
+  + added: portfolio lofi music (does nothing for job odds, sounds nice)
+  * changed: coping mechanism from "applying more" to "making github prettier"
+  - removed: hope (temporarily — will re-add on job offer)
+  known issues: recruiters ghosting, self-worth fluctuating, sleep schedule N/A
+
+v2.1.3 — "the silence at 2am doesn't judge me"
+  + added: PlantoDex (pokémon go but the pokémon are plants)
+  ! bugfix: fixed a bug in Animu at 3am, introduced two more
+  known issues: apis are winning
+
+v2.0.0 — "fresh grad" (breaking change)
+  + added: BS Information Technology diploma
+  - removed: student discount, structure, a reason to wake up before noon
+  BREAKING: "graduate" no longer implies "employed"
+
+v1.0.0 — initial release
+  + added: cedrick
+  known issues: entire lifetime supply
+```
+
+> 💡 the actual commits are real, not vibes. check the live changelog → [github.com/yukjidam](https://github.com/yukjidam)
 
 ---
 
