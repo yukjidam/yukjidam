@@ -29,7 +29,7 @@
 
 ## 🕳️ who is this guy and why is he on my screen
 
-- 🎓 fresh grad — **BS Information Technology** — survived 4 years just to stare at a blank jobstreet page
+- 🎓 **BS Information Technology** grad (July 31, 2026) — survived 4 years just to stare at a blank jobstreet page
 - 📱 i build mobile apps with **Flutter & Firebase** and an unhealthy amount of stack overflow cope
 - 🤖 AI tools are just **really fast Stack Overflow that also gaslight you and sometimes ruin your confidence** — i use all of them
 - 🌏 based in the Philippines. coding at 2am. not because i'm productive. because the silence at 2am doesn't judge me
@@ -189,6 +189,10 @@ final Cedrick = {
 >
 > currently fighting the apis. they are winning.
 
+> **[Ruta](https://github.com/yukjidam/Ruta)** — <!-- TODO: swap this line for a real description of what Ruta does -->
+>
+> the newest addition to the "things i build instead of sleeping" lineup.
+
 ---
 
 ## 📬 want to hire me
@@ -196,8 +200,6 @@ final Cedrick = {
 i have too much free time, a dangerous amount of caffeine tolerance, and absolutely nothing to lose.
 
 i will show up early. i will learn whatever you need me to learn. i will debug things at midnight not because you asked but because the bug personally offended me and i can't let it win.
-
-my portfolio has lofi music, polaroids, and little sound effects. i built that while unemployed. imagine what i'd build with a salary and health insurance and a reason to get dressed before noon.
 
 *hire me or i will keep making my github prettier and that's not a threat that's a cry for help*
 
