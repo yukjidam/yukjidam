@@ -71,7 +71,7 @@
       O F F I C I A L   R E C E I P T
 =================================================
 STORE: unemployment.exe
-CASHIER: spite
+CASHIER: spite, rage
 DATE: today, and the day before, and before that
 --------------------------------------------
 1x   BS Information Technology .... PAID IN FULL (emotionally)
