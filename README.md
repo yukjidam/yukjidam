@@ -6,11 +6,11 @@
 <tr>
 <td width="55%" valign="middle">
 
-**Cedrick**, a recent graduate in Information Technology, shaping mobile applications with **Flutter and Firebase**. The work is held together by patience, quiet persistence, and the steady counsel of AI tools that often think a little quicker than I do.
+**Cedrick**, a recent graduate in Information Technology, building mobile and web applications. Progress comes through patience, steady effort, and a fair bit of help from AI tools that tend to think faster than I do.
 
-Rooted in the Philippines, most awake once midnight settles in, not from discipline, but from habit. The hours grow still while the code continues to speak. Between sending applications, there is always some small project waiting to be opened, understood, and made whole again.
+Based in the Philippines, and usually most productive after midnight, not out of discipline, just habit. Between sending out applications, there's almost always a small project open on the side, being worked on a little at a time.
 
-At present, between positions, though the building never quite stops. My mother knows.
+Currently between jobs, though the building hasn't really stopped.
 
 </td>
 <td width="45%" align="center" valign="middle">
@@ -53,7 +53,11 @@ At present, between positions, though the building never quite stops. My mother 
 
 ## find me somewhere in the static
 
-Presence here is quiet, but constant. A message sent will likely be seen before a job offer arrives.
+<table>
+<tr>
+<td width="55%" valign="middle">
+
+I'm not always active, but I do check these regularly. Feel free to send a message and I'll get back to you.
 
 <div align="center">
 
@@ -64,18 +68,36 @@ Presence here is quiet, but constant. A message sent will likely be seen before 
 
 </div>
 
+</td>
+<td width="45%" align="center" valign="middle">
+<img src="https://github.com/yukjidam/yukjidam/blob/main/butterfly.jpg?raw=true" alt="butterfly" width="100%" height="100%" />
+</td>
+</tr>
+</table>
+
 ## currently building
 
-Three quiet projects sharing the same corner of attention while the search for work continues, held in no particular order of importance.
+<table>
+<tr>
+<td width="45%" align="center" valign="middle">
+<img src="https://github.com/yukjidam/yukjidam/blob/main/eyes2.jpg?raw=true" alt="eyes" width="100%" height="100%" />
+</td>
+<td width="55%" valign="middle">
+
+Three projects I'm working on at the same time while job hunting, in no particular order.
 
 1. **[Animu](https://github.com/yukjidam/Animu)** (*Flutter, Firebase*)
-   An anime tracker built with reviews, discussion threads, and a notification system, born from the belief that MAL deserved a gentler, darker interface. That belief is slowly being realized between applications.
+   An anime tracker with reviews, discussion threads, and notifications. Started because I felt MAL deserved a nicer, darker-themed interface. Still building it out bit by bit.
 
 2. **[PlantoDex](https://github.com/yukjidam/PlantoDex)** (*Flutter, REST API*)
-   A Pokémon Go inspired application, though the creatures here are real plants, and the collecting is quite literal. Presently in a patient standoff with an uncooperative API.
+   Basically Pokémon Go, but for real plants, you collect them as you find them. Currently stuck fighting with an API that doesn't want to cooperate.
 
 3. **[Ruta](https://github.com/yukjidam/Ruta)** (*Flutter, Firebase, Maps*)
-   A touring companion for motorcyclists, whether riding alone or alongside a crew, conceived shortly after acquiring a first bike. The newest of the three, and the one most often on my mind at night.
+   A route-planning app for motorcyclists, solo or in groups. Started this not long after getting my first bike. The newest of the three, and the one I think about most.
+
+</td>
+</tr>
+</table>
 
 ## want to hire me
 
@@ -83,9 +105,9 @@ Three quiet projects sharing the same corner of attention while the search for w
 <tr>
 <td width="55%" valign="middle">
 
-A role, internship, or freelance opportunity is welcome, particularly one that allows continued building and learning from those further along the path. New concepts come quickly, independence is comfortable, and the aim has always been to ship work that functions well rather than work that merely performs well in a demonstration.
+Open to roles, internships, or freelance work, especially opportunities where I can keep building and learning from people who know more than I do. I pick things up quickly, work well independently, and care more about shipping things that actually work than things that just look good in a demo.
 
-Anyone seeking someone who shows up, asks thoughtful questions, and takes ownership of what they build is invited to reach out through any of the links above.
+If you're looking for someone who shows up, asks good questions, and takes ownership of what they build, feel free to reach out through any of the links above.
 
 </td>
 <td width="45%" align="center" valign="middle">
@@ -96,9 +118,9 @@ Anyone seeking someone who shows up, asks thoughtful questions, and takes owners
 
 <div align="center">
 
-*that concludes the scroll. what remains beyond it is only static.*
+*That's about it for now.*
 
-*thank you for pausing here. i will remain, quietly, somewhere in the dark.*
+*Thanks for reading this far. I'll be around.*
 
 ![Profile Views](https://komarev.com/ghpvc/?username=yukjidam&color=8a2be2&style=flat-square)
 
