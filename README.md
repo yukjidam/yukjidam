@@ -189,7 +189,7 @@ final Cedrick = {
 >
 > currently fighting the apis. they are winning.
 
-> **[Ruta](https://github.com/yukjidam/Ruta)** — <!-- TODO: swap this line for a real description of what Ruta does -->
+> **[Ruta](https://github.com/yukjidam/Ruta)** — mc touring app with friends or solo (because i got my first bike!!)
 >
 > the newest addition to the "things i build instead of sleeping" lineup.
 
