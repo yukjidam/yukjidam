@@ -105,7 +105,7 @@ Three projects I'm working on at the same time while job hunting, in no particul
 <tr>
 <td width="55%" valign="middle">
 
-Open to roles, internships, or freelance work, especially opportunities where I can keep building and learning from people who know more than I do. I pick things up quickly, work well independently, and care more about shipping things that actually work than things that just look good in a demo.
+Open to roles, positions, or freelance work, especially opportunities where I can keep building and learning from people who know more than I do. I pick things up quickly, work well independently, and care more about shipping things that actually work than things that just look good in a demo.
 
 If you're looking for someone who shows up, asks good questions, and takes ownership of what they build, feel free to reach out through any of the links above.
 
